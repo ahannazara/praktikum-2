@@ -1,0 +1,30 @@
+
+#title{
+
+background-color: #C7BEA2;
+
+}
+/*------------------------------------------------------------*/
+.title1{
+  margin: auto;
+
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+
+}
+
+/*------------------------------------------------------------*/
+.title2{
+
+  font-family: 'Ubuntu';
+  font-size: 5rem;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+/*------------------------------------------------------------*/
+
+#footer{
+padding: 7% 15%;
+text-align: center;
